@@ -12,3 +12,5 @@ Bu proje React kullanılarak geliştirilmiş bir günlük plan uygulamasıdır.
 - React
 - JavaScript
 - CSS
+## Canlı Demo
+https://legendary-dango-8a41df.netlify.app 
